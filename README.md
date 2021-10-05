@@ -5,7 +5,7 @@
 <h4> Web </h3>
 
 ### Ana Sayfa
-<img src="web/hizmetler.png"  height="400"  >
+<img src="web/anasayfa.png"  height="400"  >
 
 ### Hizmetler 
 <img src="web/hizmetler.png"  height="400"  >
