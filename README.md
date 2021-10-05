@@ -2,6 +2,12 @@
 
 <h3> Fotoğrafçı Studioları için rezervasyon işlemleri, rehber kaydetme, şablon kaydetme, hizmet kaydetme, sms gönderme gibi özellikleri sağlayan panel geliştirilmiştir. </h3>
 
+<h3>Node.js ve Vue.js kullanılmıştır. Web çalışmaktadır. Mobil uygulaması geliştirilmeye başlandı. </h3>
+
+<h4> Android ve İos </h3>
+
+<h3> Geliştirilmeye başlandı. </h3>
+
 <h4> Web </h3>
 
 ### Ana Sayfa
@@ -25,10 +31,3 @@
 ### Hesap Ayarları 
 <img src="web/hesap.png"  height="400"  >
 
-<h4> Android </h3>
-
-<h3> Geliştirilmeye başlandı. </h3>
-
-<h4> İos </h3>
-
-<h3> Geliştirilmeye başlandı. </h3>
